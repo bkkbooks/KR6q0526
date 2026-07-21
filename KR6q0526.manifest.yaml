@@ -21,7 +21,7 @@ editions:
 - short: J
 assets:
   parts:
-  - {seq: 0, filename: KR6q0526_000.yaml, hash: 'sha256:2be6a5ac8b4f0f13911f9cec0de684cd4c54992ccc55c3d87e3254c953feb13e'}
+  - {seq: 0, filename: KR6q0526_000.yaml, hash: 'sha256:842458b188e825727e7368961ad09e944bec022102d862eb5b319b22d7bc3b41'}
   - {seq: 1, filename: KR6q0526_001.yaml, hash: 'sha256:1ef0909dc6fc850472baf1269c59f72ef59f34ecd65b07f6db52c2928e9fdcff'}
   - {seq: 2, filename: KR6q0526_002.yaml, hash: 'sha256:cbef210a92063babed8b80d15cf44c786d20a0e39b37e554259d59b7f4b89a1a'}
   - {seq: 3, filename: KR6q0526_003.yaml, hash: 'sha256:7e4a4fa1fa50dd4c223f1a2cb01a1b6a3477ce827c6d0977692c7050d4ff4384'}
@@ -35,7 +35,7 @@ assets:
   - {seq: 11, filename: KR6q0526_011.yaml, hash: 'sha256:963e1eadf5cdfdec67934d257eb5e0128bba78b06648103d41495ea8989c96f1'}
   - {seq: 12, filename: KR6q0526_012.yaml, hash: 'sha256:88c83445bfb1b426600f3384303693808bda370d4915b6a2b660a0afe3e524c6'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0526_000.markers.yaml, hash: 'sha256:33c7579e630047767fb41701e238be4bc58c255863745edd17d95d62160c7fcc'}
+  - {seq: 0, role: markers, filename: assets/KR6q0526_000.markers.yaml, hash: 'sha256:2e82921e84564de6ea3898e25e410cbf844d846d8683b26cde12645256e8192c'}
   - {seq: 1, role: markers, filename: assets/KR6q0526_001.markers.yaml, hash: 'sha256:72e160ed732e9c4603fab5eafa9e83fe23c6d40243340b6a1264371cabdc70f6'}
   - {seq: 2, role: markers, filename: assets/KR6q0526_002.markers.yaml, hash: 'sha256:3cfcc189a60f6040a31dd591ddfd6fb1ce28e25ebc8b5c80121d4376ff9105d4'}
   - {seq: 3, role: markers, filename: assets/KR6q0526_003.markers.yaml, hash: 'sha256:68814863db75b44517c7a0c2746af0c9e1edb411d42d6eb7783825150694315c'}
@@ -53,7 +53,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0526_J_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 像　讚
@@ -63,7 +63,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0526_J_000-mulu-2
     span:
-    - front
+    - body
     - 95
     - 95
   label: 序
@@ -73,7 +73,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0526_J_000-mulu-3
     span:
-    - front
+    - body
     - 95
     - 95
   label: 函修序
@@ -83,7 +83,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0526_J_000-mulu-4
     span:
-    - front
+    - body
     - 728
     - 728
   label: 梁殿華序
@@ -93,7 +93,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0526_J_000-mulu-5
     span:
-    - front
+    - body
     - 1113
     - 1113
   label: 陸世楷序
@@ -103,7 +103,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0526_J_000-mulu-6
     span:
-    - front
+    - body
     - 1811
     - 1811
   label: 總目
@@ -5199,7 +5199,7 @@ table_of_contents:
   label: 十五咸
   type: mulu
   level: 1
-hash: sha256:a18b048767c36960a7555b8f38a0ed559d1151961128762582aec427905aed73
+hash: sha256:824586d76600cf0a98f9e199788ef9f1c66318396ab454ca0d3b2df2ebbf7ca1
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
